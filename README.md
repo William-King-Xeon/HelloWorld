@@ -1,3 +1,3 @@
 # HelloWorld
 # This project is for testing
-# Make by William King XEON!
+# Made by William King XEON!
